@@ -2,8 +2,6 @@
 
 ### Software Engineering Graduate Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaveKingh&label=Profile views&color=0e75b6&style=flat" alt="DaveKingh" /> </p>
-
 - 🔭 I'm currently working on **Paper reading and research training in software engineering, AI and network security**
 
 - 💬 Ask me about **Lightweight network security detection, deep learning experiments and paper reading**
@@ -11,10 +9,6 @@
 - 📫 How to reach me **GitHub: https://github.com/DaveKingh**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/DaveKingh](https://github.com/DaveKingh)**
-
-- 📝 I regularly write articles on **[https://github.com/DaveKingh](https://github.com/DaveKingh)**
-
-- 📄 Know about my experiences **[https://github.com/DaveKingh](https://github.com/DaveKingh)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
