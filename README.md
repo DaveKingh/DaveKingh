@@ -6,17 +6,9 @@
 
 - 🔭 I'm currently working on **Paper reading and research training in software engineering, AI and network security**
 
-- 🌱 I'm currently learning **Linux, AI Agents, deep learning model optimization and experimental methods**
-
-- 👯 I'm looking to collaborate on **Open-source learning projects related to AI, cybersecurity and software engineering**
-
-- 🤝 I'm looking for help with **Practical Linux development, Agent engineering and efficient model deployment**
-
 - 💬 Ask me about **Lightweight network security detection, deep learning experiments and paper reading**
 
 - 📫 How to reach me **GitHub: https://github.com/DaveKingh**
-
-- ⚡ Fun fact **I enjoy turning research ideas into experiments and learning notes.**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/DaveKingh](https://github.com/DaveKingh)**
 
